@@ -1,46 +1,54 @@
-# Getting Started with Create React App and Redux
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This is a Netflix Clone built using React and Firebase for ALX SE Foundational capstone project. This project marks the end of 9 months of intensive learning and is a culmination of everything we've studied during that period.
 
-## Available Scripts
+**[Try Now](https://www.linkedin.com/in/godfredhammond/)**
 
-In the project directory, you can run:
+## Technologies Used
 
-### `npm start`
+### React
+React is a JavaScript library for building user interfaces. It allows us to create reusable UI components, manage the application state effectively, and efficiently update and render the right components when data changes. The component-based architecture of React helps in creating a dynamic and responsive user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Firebase
+Firebase is a platform developed by Google for creating mobile and web applications. It provides a suite of tools and services to help developers build high-quality apps, including authentication, real-time databases, cloud storage, and hosting. In this project, Firebase is used for:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Firestore Database**: Storing user data and movie information.
+- **Hosting**: Deploying the application.
 
-### `npm test`
+## Inspiration
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project is inspired by the original Netflix application, aiming to provide a similar user experience and functionality. The goal is to practice and demonstrate the capabilities of React and Firebase in building & deploying a Frontend application.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Homepage View
+=============
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Homepage](\screenshots\home.png)  
+ 
+* Getting Started View
+================
 
-### `npm run eject`
+![Screenshot 2](\screenshots\getting_started.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get a local copy up and running, follow these simple steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Make sure you have npm and Node.js installed. Please consult your operating system's instructions on how to install Node.js and npm. For more information visit [the documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-## Learn More
+### Installation (CHANGE THE INFORMATION BELOW)
+   ```sh
+   git clone https://github.com/BlackOligarch/netflix-project-clone.git
+   cd netflix-project-clone/
+   npm install
+   npm start
+   ```
+   The above will clone the repo, get all necessary dependencies required to run the 	application and then start it. You can checkout the webapp in its full glory at `http://localhost:3000` in your web browser.
+   
+## Authors (REPLACE THE LINK BELOW WITH YOUR LINKEDIN)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Godfred Hammond](https://www.linkedin.com/in/godfredhammond/)
