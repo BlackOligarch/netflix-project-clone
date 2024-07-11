@@ -2,7 +2,7 @@
 
 This is a Netflix Clone built using React and Firebase for ALX SE Foundational capstone project. This project marks the end of 9 months of intensive learning and is a culmination of everything we've studied during that period.
 
-**[Try Now](https://www.linkedin.com/in/godfredhammond/)**
+**[Try Now](https://netflix-project-clone-7bba0.web.app/)**
 
 ## Technologies Used
 
