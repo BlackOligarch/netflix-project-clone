@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Frontend Clone
 
 This is a Netflix Clone built using React and Firebase for ALX SE Foundational capstone project. This project marks the end of 9 months of intensive learning and is a culmination of everything we've studied during that period.
 
@@ -40,7 +40,7 @@ To get a local copy up and running, follow these simple steps:
 
 Make sure you have npm and Node.js installed. Please consult your operating system's instructions on how to install Node.js and npm. For more information visit [the documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-### Installation (CHANGE THE INFORMATION BELOW)
+### Installation 
    ```sh
    git clone https://github.com/BlackOligarch/netflix-project-clone.git
    cd netflix-project-clone/
