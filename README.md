@@ -22,13 +22,13 @@ This project is inspired by the original Netflix application, aiming to provide 
 
 ## Screenshots
 
-* Homepage View
-  =============
+* #### Homepage View
+  ===========
 
 ![Homepage](./public/screenshots/home.png)  
  
-* Getting Started View
-  ================
+* #### Getting Started View
+  ==============
 
 ![Screenshot 2](./public/screenshots/getting_started.png)
 
