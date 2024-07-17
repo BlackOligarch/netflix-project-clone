@@ -30,7 +30,7 @@ This project is inspired by the original Netflix application, aiming to provide 
 * Getting Started View
 ================
 
-![Screenshot 2](.\public\screenshots\getting_started.png)
+![Getting Started Page](.\public\screenshots\getting_started.png)
 
 ## Getting Started
 
