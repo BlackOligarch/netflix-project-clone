@@ -9,11 +9,11 @@ This is a Netflix Clone built using React and Firebase for ALX SE Foundational c
 ### React
 React is a JavaScript library for building user interfaces. It allows us to create reusable UI components, manage the application state effectively, and efficiently update and render the right components when data changes. The component-based architecture of React helps in creating a dynamic and responsive user experience.
 
-### Firebase
-Firebase is a platform developed by Google for creating mobile and web applications. It provides a suite of tools and services to help developers build high-quality apps, including authentication, real-time databases, cloud storage, and hosting. In this project, Firebase is used for:
+### Vercel
+Vercel is a platform optimized for frontend developers, providing the best tools and services to deploy high-performance websites and applications. It supports static site generation, seamless integrations with various headless CMS and APIs, and provides excellent performance optimization. In this project, Vercel is used for:
 
-- **Firestore Database**: Storing user data and movie information.
-- **Hosting**: Deploying the application.
+- **Deployment**: Deploying the application. Vercel offers fast, secure, and reliable hosting, ensuring that the application is served efficiently to users. With features like automatic scaling and edge caching, Vercel guarantees optimal performance and availability.
+- **Performance Optimization**: Enhancing application performance. Vercel's edge network and automatic optimizations ensure that the application loads quickly and efficiently, providing a seamless user experience.
 
 ## Inspiration
 
